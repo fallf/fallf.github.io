@@ -1,0 +1,2 @@
+# Code Refactor Starter Code
+This website helps the organization optimize Marketing. It shows how it uses various online tools to help the company mission. We use the same mindset while building this website by keeping it simple and straight to the point. 
